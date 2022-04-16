@@ -1,3 +1,5 @@
+Please read the README to understand the format! :)
+
 [a1, a2, a3, W]: IL
 [a1, a2, a3, B]: IL
 [a1, a2, a4, W]: IL
