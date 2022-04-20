@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RKK
+comment1.params=
+comment1.target=void\ main()
+comment2.params=p
+comment2.target=java.lang.String\ loc(int)
+comment3.params=k1\ k2\ r\ isWhite\ res
+comment3.target=void\ print(int,\ int,\ int,\ boolean,\ java.lang.String)
+comment4.params=k1\ k2\ r\ isWhite
+comment4.target=void\ whoWin(int,\ int,\ int,\ boolean)
+comment5.params=p1\ p2
+comment5.target=boolean\ isAdjacent(int,\ int)
+comment6.params=k1\ k2\ r
+comment6.target=boolean\ canMove(int,\ int,\ int)
+comment7.params=p\ r\ k1
+comment7.target=boolean\ isRooked(int,\ int,\ int)
+numComments=8
